@@ -3,7 +3,7 @@ package FillFromWikidata;
  * This program updates the sources by taking new info from
  * wikipedia json file. It performs data cleaning of wikipedia.json
  * and integrates it with mongo imdb collection
- * @author -Nikhil Yadav
+ * @author- Harnish Savadia
  */
 
 //imports necessary mongo libraries and JSON Parser

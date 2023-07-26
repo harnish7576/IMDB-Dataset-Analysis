@@ -2,7 +2,7 @@
 package IMDBSQLToMongo;
 /**
  * This program migrates sql imdb_ibd data to mongodb
- * @author - Nikhil yadav
+ * @author - Harnish Savadia
  */
 
 // importing necessary mongodB libraries

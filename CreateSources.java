@@ -1,7 +1,7 @@
 package CreateSources;
 /**
  * This program creates 4 new sources from imdb_ibd
- * @author- Nikhil Yadav
+ * @author- Harnish Savadia
  */
 
 import java.sql.Connection;

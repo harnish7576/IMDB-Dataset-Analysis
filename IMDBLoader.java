@@ -4,7 +4,7 @@
  * and also creates a given schema that maps proffessions of certain
  * existing individuals working in movies.
  *
- * @ Author- Nikhil Yadav
+ * @ Author- Harnish Savadia
  */
 
 

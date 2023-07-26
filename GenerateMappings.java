@@ -2,7 +2,7 @@
 This program creates a couple of views from the imdb dataset,
 First is a movie_g view , second is an actor_view
 
-@author- Nikhil Yadav
+@author- Harnish Savadia
 **/
 
 package GenerateMappings;
